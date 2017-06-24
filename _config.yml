@@ -36,18 +36,18 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: itspaulsenior
-google: itspaulsenior
+# google: itspaulsenior
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/psenior
+linkedin: psenior
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: psenior
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: itspaulsenior@gmail.com
 
