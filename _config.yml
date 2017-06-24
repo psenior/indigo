@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Paul Senior
+bio: Junior developer with a passion for learning.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: http://webdev2016.piaseckifoundation.org/paul_senior/Paul Senior Resume.pdf
 
-url: https://koppl.in/indigo
+url: http://webdev2016.piaseckifoundation.org/paul_senior/blog
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -31,15 +31,15 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+# facebook: myfacebook
+twitter: itspaulsenior
+google: itspaulsenior
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/psenior
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -49,7 +49,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: itspaulsenior@gmail.com
 
 authors:
     johndoe:
@@ -97,7 +97,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 gems:
   - jekyll-seo-tag
